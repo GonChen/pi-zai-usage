@@ -50,6 +50,7 @@
   },
   "files": [
     "dist",
+    "index.js",
     "package.json",
     "README.md",
     "CHANGELOG.md",
@@ -65,7 +66,7 @@
   ],
   "pi": {
     "extensions": [
-      "./dist/index.js"
+      "./index.js"
     ]
   },
   "repository": {
